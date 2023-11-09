@@ -1,4 +1,4 @@
-# Cplusplus-Program CS210 Clock classes and functions
+# CS210 Clock!
 
 # Sumarize the project and what problem it solved.
 I created a program that displays a 12 and 24 hour clock. It allows the user to set the time and display the time. This is helpful to add to a website for a company that is not for sure what time standard would be required. 
